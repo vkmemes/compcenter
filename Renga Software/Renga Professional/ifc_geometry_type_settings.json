@@ -1,0 +1,503 @@
+{
+    "IfcCurvesApproximation": true,
+    "IfcIsGeometricRepresentationWithoutCuttingEnabled": false,
+    "IfcSplitObjectsWithLayeredMaterialIntoParts": true,
+    "IfcVoidsAsReference": true,
+    "ifcGeometryTypesExportSettings": [
+        {
+            "enable": false,
+            "itemName": "CompositeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CompositeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CircleProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "RectangleProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "UShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ZShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TrapeziumProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "DerivedProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": true,
+            "itemName": "ArbitraryClosedProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CompositeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": true,
+            "itemName": "SweptDiskSolid",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryClosedProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "Axis",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "EllipseProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ZShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "SweptDiskSolidPolygonal",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "TShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "LShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "LShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": true,
+            "itemName": "FootPrint",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "ZShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "UShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "RectangleProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "EllipseProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryClosedProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "IShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "RectangleProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": true,
+            "itemName": "PolygonalFaceSet",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryOpenProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "UShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "FacetedBrep",
+            "profileClassName": ""
+        },
+        {
+            "enable": true,
+            "itemName": "TriangulatedFaceSet",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "RectangleProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "AssymetricIShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "TrapeziumProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": true,
+            "itemName": "ArbitraryClosedProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryOpenProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "EllipseProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "DerivedProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TrapeziumProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TrapeziumProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "IShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryOpenProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "LShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "DerivedProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryOpenProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "AssymetricIShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CircleProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "UShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "IShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CircleProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "AssymetricIShapeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "EllipseProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CompositeProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ZShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "IShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ZShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "RectangleProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TShapeProfile",
+            "profileClassName": "ExtrudedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "LShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "LShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TrapeziumProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "DerivedProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CircleProfile",
+            "profileClassName": "RevolvedAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CircleProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "AssymetricIShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "AssymetricIShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "CircleProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryOpenProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "CShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "IShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ZShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "RectangleProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TShapeProfile",
+            "profileClassName": "SurfaceCurveSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "TShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "UShapeProfile",
+            "profileClassName": "FixedReferenceSweptAreaSolid"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryClosedProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryOpenProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "TrapeziumProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "CompositeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "DerivedProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "LShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "EllipseProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "AssymetricIShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "CompositeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "TShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "AdvancedBrep",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "UShapeProfile",
+            "profileClassName": "ExtrudedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "ArbitraryClosedProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "DerivedProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "CShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "EllipseProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        },
+        {
+            "enable": false,
+            "itemName": "Surface",
+            "profileClassName": ""
+        },
+        {
+            "enable": false,
+            "itemName": "IShapeProfile",
+            "profileClassName": "RevolvedAreaSolidTapered"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+﻿# Executables & Large Installers
+*.exe
+*.msi
+
+# Logs & Deployment Reports
+*.log
+*.csv
+ThumbnailsCache/
+
+# OS Specific
+Thumbs.db
+desktop.ini
+.DS_Store
